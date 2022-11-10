@@ -1,6 +1,9 @@
 homepage: "https://www.bossdata.be/"
+documentation: "https://github.com/bossdata/sgtm-send-pixel-from-browser#readme"
 versions:
   # Latest version
+  - sha: 0e86ea43fb62cd1630561fad6366b6047052e723
+    changeNotes: Added documentation url.
+  # Older versions
   - sha: 937a90fbefd2b457e8d6ec9ecef1e1c1a1a2b939
     changeNotes: Initial release.
-  # Older versions
