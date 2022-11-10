@@ -1,0 +1,6 @@
+homepage: "https://www.bossdata.be/"
+versions:
+  # Latest version
+  - sha: 937a90fbefd2b457e8d6ec9ecef1e1c1a1a2b939
+    changeNotes: Initial release.
+  # Older versions
